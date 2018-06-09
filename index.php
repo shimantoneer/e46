@@ -1,4 +1,4 @@
 <?php
-header("Location: https://greenearthappeal.org/one-child-one-tree");
+header("Location: http://www.fairfieldct.org/treeplanting");
 die();
 ?>
